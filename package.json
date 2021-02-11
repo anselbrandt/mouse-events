@@ -1,0 +1,9 @@
+{
+  "name": "mouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "input-event": "^1.2.6"
+  }
+}
